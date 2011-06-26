@@ -24,12 +24,15 @@ It should now be imported, to use from now on, click Language > look near the bo
 **Language Semantics**
 
 The at symbol (@) signifies a category, currently @todo n++ syntaxhighlighter supports the following: (In no order)
+
     @todo, @done, @soon, @in-progress, @completed, @working, @unfinished, @uncompleted
 
 The hash tag (#) allows you to tag specific words to easily identify them like so:
+
     Created a #language parser for @todo
     
 For headers, put a # before your word like so:
+
     # To be done
     
 For conversion to .md as seen on iConomy simply place 4 spaces before your @tagged lines.
@@ -37,6 +40,7 @@ For conversion to .md as seen on iConomy simply place 4 spaces before your @tagg
 *Commenting*
 
 To create comments, all you have to do is use the double-dash (--) or block comments:
+
     -/
       this is a comment
     /-
