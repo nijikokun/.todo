@@ -1,0 +1,60 @@
+<NotepadPlus>
+    <!-- 
+        @todo language
+        Author: Nijikokun (@nijikokun) <nijikokun@gmail.com>
+        Copyright: 2011
+        Version: 1.0
+    -->
+    <UserLang name="@todo" ext="todo td 2do list lst">
+        <Settings>
+            <Global caseIgnored="yes" />
+            <TreatAsSymbol comment="no" commentLine="yes" />
+            <Prefix words1="no" words2="no" words3="no" words4="yes" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">(00)00</Keywords>
+            <Keywords name="Folder+"></Keywords>
+            <Keywords name="Folder-"></Keywords>
+            <Keywords name="Operators"></Keywords>
+            <Keywords name="Comment">1 2 0--</Keywords>
+            <Keywords name="Words1">@todo @unfinished @uncompleted</Keywords>
+            <Keywords name="Words2">@done @finished @completed</Keywords>
+            <Keywords name="Words3">@soon @in-progress @currently</Keywords>
+            <Keywords name="Words4">#</Keywords>
+        </KeywordLists>
+        <Styles>
+            <!-- DARK THEME
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="C0C0C0" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="000000" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="000000" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="AB2B27" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="46A610" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="FFFF80" bgColor="191919" fontName="" fontStyle="2" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="4B4B4B" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="373737" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="373737" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="000000" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="000000" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="4B4B4B" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="000000" bgColor="191919" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="191919" fontName="" fontStyle="0" />
+            <!-- -->
+            <!-- LIGHT VERSION -->
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="373737" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="AB2B27" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="00803A" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="EAC702" bgColor="FFFFFF" fontName="" fontStyle="2" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="C0C0C0" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="C0C0C0" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="C0C0C0" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="EEEEEE" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <!-- -->
+        </Styles>
+    </UserLang>
+</NotepadPlus>
