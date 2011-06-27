@@ -20,7 +20,7 @@ SyntaxHighlighter.brushes.Custom = function(){
         { regex: /((^|\s)#(\w+)|(^|\s)#)/g,           css: 'color1' },
         { regex: new RegExp(funcs),                   css: 'keyword' },
         { regex: new RegExp(operators),               css: 'variable' },
-        { regex: new RegExp(keywords),                 css: 'value' }
+        { regex: new RegExp(keywords),                css: 'value' }
     ];
 };
 
