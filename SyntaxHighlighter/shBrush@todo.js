@@ -1,4 +1,4 @@
-/*********************************************************
+/*
  * @todo SyntaxHighlighter Custom Brush
  *
  * @author: Nijikokun (@nijikokun) <nijikokun@gmail.com>
@@ -8,7 +8,7 @@
  * @locations:
  * http://nijikokun.com/projects/@todo
  * https://github.com/Nijikokun/.todo
- *********************************************************/
+ */
  
 SyntaxHighlighter.brushes.Custom = function(){
     var funcs = /\B(@todo|@unfinished|@uncompleted)/gmi;
