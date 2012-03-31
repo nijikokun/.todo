@@ -1,9 +1,9 @@
 <NotepadPlus>
     <!-- 
         @todo language
-        Author: Nijikokun (@nijikokun) <nijikokun@gmail.com>
-        Copyright: 2011
-        Version: 1.0
+        author: Nijikokun (@nijikokun) <nijikokun@gmail.com>
+        copyright: 2011 Nijikokun
+        version: 1.0
     -->
     <UserLang name="@todo" ext="todo td 2do list lst">
         <Settings>
